@@ -1,0 +1,7 @@
+section{
+    min-height: 20vh;
+}
+
+*{
+    scroll-behavior: smooth;
+}
